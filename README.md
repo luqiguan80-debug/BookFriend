@@ -214,5 +214,5 @@ Next up: resume-with-recap (AI reviews your last progress when you reopen a book
 
 ## License
 
-待定（GPLv3 / MIT 二选一）。
-TBD (GPLv3 or MIT).
+[MIT](LICENSE) © 2026 luqiguan80-debug — 可自由使用、修改、商用，保留版权声明即可。
+Free to use, modify, and distribute, commercially or otherwise, with attribution.
