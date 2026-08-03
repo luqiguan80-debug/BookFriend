@@ -1,0 +1,24 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+
+# XcodeGen 生成的工程（可随时重新生成）
+# 如需提交工程文件以便无 XcodeGen 环境直接打开，删除下面这行
+ShuYou.xcodeproj/
+
+# macOS
+.DS_Store
+
+# SwiftPM
+.build/
+Package.resolved
+
+# 打包产物
+dist/
+
+# 内部文档（仅本地，不公开）
+PRD.md
+CLAUDE.md
